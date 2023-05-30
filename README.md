@@ -17,13 +17,13 @@
 
 <p >📁 Feel free to explore my repositories to discover some of the web projects I've developed. Each repository showcases my dedication to creating beautiful interfaces combined with smooth animations and delightful interactions.</p>
 
-<p >🔗 You can find live demos and additional documentation in the respective repository's README.</p>
+<!-- <p >🔗 You can find live demos and additional documentation in the respective repository's README.</p> -->
 
 <h2 >Get in Touch</h2>
 
 <p >🔗 Connect with me on LinkedIn to stay updated with my latest projects and professional endeavors.</p>
 
-<p >🌐 Visit my personal website [Your Website URL] to learn more about my work and find ways to contact me. Get ready to embark on an exciting journey of creativity and innovation!</p>
+<!-- <p >🌐 Visit my personal website [Your Website URL] to learn more about my work and find ways to contact me. Get ready to embark on an exciting journey of creativity and innovation!</p> -->
 
 <p >Thank you for visiting my GitHub profile! 🙏</p>
 
