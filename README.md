@@ -3,7 +3,7 @@
 </p> -->
 <h1>Hi there! 👋</h1>
 
-<p>I'm <strong>Your Name</strong>, a frontend developer with a passion for creating stunning web experiences.</p>
+<p>I'm <strong>Daniyal Muhammad Shehzad</strong>, a frontend developer with a passion for creating stunning web experiences.</p>
 
 <h2 >About Me</h2>
 
