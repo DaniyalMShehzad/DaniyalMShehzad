@@ -38,7 +38,7 @@ I am a MERN Stack Developer with over two and a half years of experience in buil
 
 ## Contact
 
-- **Email:** [your.email@example.com](mailto:daniyalshehzad41@gmail.com)
+- **Email:** [your.email@example.com](mailto:daniyalshehzad305@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/daniyal-m-shehzad-6b1a04269/)
 - **GitHub:** [Daniyal Muhammad Shehzad](https://github.com/DaniyalMShehzad)
 
