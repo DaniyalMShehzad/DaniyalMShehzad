@@ -26,8 +26,16 @@
 
 ### 🚀 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,reactnative,js,ts,html,css,bootstrap,tailwind" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </p>
+
 
 ---
 
@@ -69,12 +77,12 @@
 # 📊 **GitHub Stats**
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaniyalMShehzad&show_icons=true&theme=react" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMShehzad&theme=react" />
+  <img height="160" src="https://stats.dooboo.io/api/github-stats?username=DaniyalMShehzad&theme=react" />
+  <img height="160" src="https://stats.dooboo.io/api/github-streak-stats?user=DaniyalMShehzad&theme=react" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMShehzad&layout=compact&theme=react" />
+  <img height="160" src="https://stats.dooboo.io/api/top-langs?username=DaniyalMShehzad&layout=compact&theme=react" />
 </p>
 
 ---
@@ -85,7 +93,7 @@
 📧 **daniyalshehzad305@gmail.com**  
 📍 **Karachi, Pakistan**  
 
-🔗 **GitHub:** github.com/DaniyalMShehzad  
+🔗 **GitHub:** [github.com/DaniyalMShehzad](https://github.com/DaniyalMShehzad)  
 🔗 **LinkedIn:** [linkedin.com/in/daniyal-m-shehzad](https://www.linkedin.com/m/in/daniyal-m-shehzad-6b1a04269/)  
 
 ---
