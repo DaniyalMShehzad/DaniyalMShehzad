@@ -77,13 +77,13 @@
 # 📊 **GitHub Stats**
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaniyalMShehzad&show_icons=true&theme=react&rank_icon=github" />
-  <img height="160" src="https://github-streak-stats.demolab.com?user=DaniyalMShehzad&theme=react" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DaniyalMShehzad&show_icons=true&theme=react&rank_icon=github&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMShehzad&theme=react&hide_border=true" />
+</p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMShehzad&layout=compact&theme=react&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMShehzad&layout=compact&theme=react" />
-</p>
 
 ---
 
