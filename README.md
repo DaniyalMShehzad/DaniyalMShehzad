@@ -1,45 +1,95 @@
-# Daniyal Muhammad Shehzad
+<!-- Banner -->
 
-## About Me
+<h1 align="center">👋 Hi, I'm <span style="color:#4F9BFF;">Daniyal M Shehzad</span></h1>
+<h3 align="center">MERN Stack Developer | React Native | Frontend Engineer</h3>
 
-I am a MERN Stack Developer with over two and a half years of experience in building full-stack applications. My expertise lies in both frontend and backend development, and I have a strong proficiency in using modern web technologies and tools.
+<p align="center">
+  5+ years of experience building scalable, high-performing web & mobile applications.
+</p>
 
-## Technologies & Tools
+---
 
-- **Frontend:**
-  - React.js
-  - React Native
+## 🚀 **About Me**
 
-- **Backend:**
-  - Node.js
-  - Express.js
-  - SQL (e.g., MySQL, PostgreSQL)
-  - MongoDB
+- 🔥 5+ years of **frontend & full-stack** experience  
+- 🌐 Expert in **React.js, Next.js, TypeScript, UI/UX**  
+- 📱 Cross-platform apps using **React Native**  
+- ⚡ Performance-focused UI development  
+- ⚙️ Strong backend background in **Node.js, Express, MongoDB, SQL, PostgreSQL**  
+- 🧪 Quality-driven with **Cypress E2E tests**  
+- 🐳 Comfortable with **Docker, Supabase**  
+- 🎯 Agile experience with **Jira, Zenhub, Asana**
 
-- **Testing:**
-  - Cypress
+---
 
-- **Deployment:**
-  - cPanel
+# 🛠️ **Tech Stack & Tools**
 
-## Experience
+### 🚀 **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,reactnative,js,ts,html,css,bootstrap,tailwind" />
+</p>
 
-### Frontend Development
-- Developed and maintained responsive user interfaces using React.js and React Native.
-- Implemented state management solutions and integrated RESTful APIs.
+---
 
-### Backend Development
-- Built scalable backend services with Node.js, Express.js, and various databases (SQL and MongoDB).
-- Designed database schemas and implemented authentication and authorization.
+### 🗄️ **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest" />
+</p>
 
-### Testing & Deployment
-- Utilized Cypress for end-to-end testing to ensure the quality of the applications.
-- Deployed full-stack applications on cPanel, managing server configurations and domain setups.
+---
 
-## Contact
+### 🗃️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
 
-- **Email:** [your.email@example.com](mailto:daniyalshehzad305@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/daniyal-m-shehzad-6b1a04269/)
-- **GitHub:** [Daniyal Muhammad Shehzad](https://github.com/DaniyalMShehzad)
+---
 
-Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
+### 🛢️ **DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,supabase" />
+</p>
+
+---
+
+### 🧪 **Testing**
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress" />
+</p>
+
+---
+
+### 🛠️ **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaniyalMShehzad&show_icons=true&theme=react" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMShehzad&theme=react" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMShehzad&layout=compact&theme=react" />
+</p>
+
+---
+
+# 📫 **Contact Me**
+
+📞 **+92 340 1261855**  
+📧 **daniyalshehzad305@gmail.com**  
+📍 **Karachi, Pakistan**  
+
+🔗 **GitHub:** github.com/DaniyalMShehzad  
+🔗 **LinkedIn:** [linkedin.com/in/daniyal-m-shehzad](https://www.linkedin.com/m/in/daniyal-m-shehzad-6b1a04269/)  
+
+---
+
+<p align="center">
+  <b>✨ Passionate about crafting modern UIs, creating smooth user experiences, and building scalable web & mobile apps.</b>
+</p>
