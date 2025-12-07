@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4F9BFF;">Daniyal M Shehzad</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4F9BFF;">Daniyal Muhammad Shehzad</span></h1>
 <h3 align="center">MERN Stack Developer | React Native | Frontend Engineer</h3>
 
 <p align="center">
