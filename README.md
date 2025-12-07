@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4F9BFF;">Daniyal Muhammad Shehzad</span></h1>
-<h3 align="center">MERN Stack Developer | React Native | Frontend Engineer</h3>
+<h3 align="center">MERN Stack Developer | React Js | React Native | Next js | NestJS| Express| Frontend Engineer</h3>
 
 <p align="center">
   5+ years of experience building scalable, high-performing web & mobile applications.
