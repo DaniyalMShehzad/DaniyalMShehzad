@@ -77,7 +77,7 @@
 # 📊 **GitHub Stats**
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniyalMShehzad&theme=react&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DaniyalMShehzad" alt="GitHub Streak" /></a>
 </p>
 
 
